@@ -20,7 +20,7 @@ just [drop me an email](mailto:oxananu@gmail.com).
 When I’m not coding or analyzing data, I teach and train swimming & triathlon
 (check out [Stockholm International Swimming Club](http://stockholmswimmingclub.se)).
 
-Other places you can find me on internet:
+Other places you can find me on the Internet:
 
 - [Twitter](http://twitter.com/Merenlin) — daily inspiration
 - [GitHub](https://github.com/oxananu) — code 
