@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img src="profile.jpg" class="profile-picture" width="150" align="right">
+<img src="oxana.jpg" class="profile-picture" width="150" align="right">
 
 Hi there. I'm Oxana.
 
