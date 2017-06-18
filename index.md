@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img src="oxana_1.jpg" class="profile-picture" width="150" align="right" class="avatar">
+<img src="oxana.jpg" class="profile-picture" width="150" align="right" class="avatar">
 
 Hi there. I'm Oxana.
 
@@ -14,16 +14,15 @@ visualizations and extract insights from data. With experience from both academi
 
 My background in web development and experience working for tech startups add to my data wizard toolbox. I also enjoy sharing my passion for creating awesome things with code so I teach programming and data visualization. 
 
-Does this just sound like a person you are looking for? I'm available for part-time projects, 
+Does this sound like a person you are looking for? I'm available for part-time projects, 
 just [drop me an email](mailto:oxananu@gmail.com).
 
 When I’m not coding or analyzing data, I teach and train swimming & triathlon
-(check out [Stockholm International Swimming Club](http://stockholmswimmingclub.se)) 
-and spend time with my family. I also really enjoy spending time outside, exploring nature and all sorts of training. 
+(check out [Stockholm International Swimming Club](http://stockholmswimmingclub.se)).
 
 Other places you can find me on internet:
 
 - [Twitter](http://twitter.com/Merenlin) — daily inspiration
 - [GitHub](https://github.com/oxananu) — code 
-- [Instagram](http://instagram.com/oxana.nu/) — life stories and fitness
+- [LinkedIn](http://linkedin.com/) — my CV online
 
