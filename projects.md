@@ -26,7 +26,7 @@ Here are things I have done in the past few years or doing now, structured by th
 
 
 ## Web development
-
+**2017** Frontend development for [Mentimeter](https://www.mentimeter.com/) 
 **2015** Helped develop [EdQu](https://www.edqu.se/) at the very early stages
 
 
