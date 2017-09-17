@@ -12,20 +12,23 @@ Here are things I have done in the past few years or doing now, structured by th
 
 ## Data analysis and visualisation
 
+**2017** "High GC content causes orphan proteins to be intrinsically disordered" [paper in PLOS Computational Biology] (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005375)
+
 **2015** Improved bar chart visualizations for [Mentimeter](https://www.mentimeter.com/)
 
 **2015** Contributed to [Plot.ly Python API](https://github.com/plotly/python-api/pull/274)
 
 **2015** [Plot.ly notebook](https://plot.ly/ipython-notebooks/bioinformatics/) for computational biologists
 
-**2013** ["Evolution of disordered proteins" paper in MBE Oxford journal](http://mbe.oxfordjournals.org/content/30/12/2645.short)
+**2013** "Evolution of disordered proteins" [paper in MBE Oxford journal](http://mbe.oxfordjournals.org/content/30/12/2645.short)
 
-**2012-2013** ["Promoter architecture and expression breadth study with FANTOM5" paper in Genome Biology journal](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0413-3#)
+**2012-2013** "Promoter architecture and expression breadth study with FANTOM5" [paper in Genome Biology journal](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0413-3#)
 
 
 ## Web development
 
-**2015** Helped develop [EdQu](https://www.edqu.se/)  at the very early stages
+**2015** Helped develop [EdQu](https://www.edqu.se/) at the very early stages
+
 
 ## Social impact
 
