@@ -12,7 +12,7 @@ Here are things I have done in the past few years or doing now, structured by th
 
 ## Data analysis and visualisation
 
-**2017** "High GC content causes orphan proteins to be intrinsically disordered" [paper in PLOS Computational Biology] (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005375)
+**2017** "High GC content causes orphan proteins to be intrinsically disordered" [paper in PLOS Computational Biology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005375)
 
 **2015** Improved bar chart visualizations for [Mentimeter](https://www.mentimeter.com/)
 
