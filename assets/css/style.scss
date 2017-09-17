@@ -49,22 +49,24 @@ section:after {
 }
 
 a {
-    text-decoration: none;
-    background: transparent;
-    background-size: 2px 2px;
-    background-position: 0 15px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 75%, rgba(0,0,0,0.8) 75%);
-    background-repeat: repeat-x;
-    color: inherit;
+  color:#267CB9;
+  text-decoration:none;
 }
 
-small {
-    font-size: 13px;
-    line-height: 1.2;
+a:hover, a:focus {
+  color:#069;
+  font-weight: bold;
 }
 
-small a {
-    background-position: 0 12px;
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
 }
 
 ul {
