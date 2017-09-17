@@ -21,3 +21,37 @@ body {
   max-width: 150px;
   margin: 20px;
 }
+
+header {
+    text-align: center;
+    margin: 50px 0 0;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+    margin: 0 0 5px;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header li {
+    display: inline;
+    padding: 0 9px;
+    margin: 0;
+}
+
+header:after,
+section:after {
+    content: '';
+    display: block;
+    width: 150px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 30px auto;
+    padding: 0;
+}
